@@ -2,7 +2,6 @@
 #include <SFML/Graphics.hpp>
 #include <memory>
 #include <array>
-#include <iostream>
 
 class Puzzle {
   std::shared_ptr<sf::RenderWindow> window;
