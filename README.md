@@ -5,7 +5,7 @@ This repository stores a **Puzzle** game created with **C++** and **SFML**.
 ---
 
 # Dependencies
-+ [GNU GCC/g++](https:://gcc.gnu.org/)
++ [GNU GCC/g++](https://gcc.gnu.org/)
 + [SFML](https://github.com/SFML/SFML)
 + [GNU Make](https://www.gnu.org/software/make/)
 
